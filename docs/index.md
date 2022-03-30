@@ -19,7 +19,7 @@ Data Analyst
 `2019-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Full academic scholarship with I DONT HAVE GOOD GPA
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
