@@ -2,7 +2,7 @@
 layout: cv
 title: Gabriel Lemos
 ---
-# Brigham Young
+# Gabriel Lemos
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
