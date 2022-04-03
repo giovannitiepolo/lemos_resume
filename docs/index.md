@@ -6,7 +6,7 @@ title: Gabriel Lemos
 Data Analyst student at Brigham Young University
 
 <div id="webaddress">
-<a href="gabrieltlemos@byui.edu">datascience@byui.edu</a>
+<a href="gabrieltlemos@byui.edu">gabrieltlemos@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/gabriel-t-lemos-7bb21154/">LinkedIn</a>
 | <a href="https://github.com/gabrieltlemos">GitHub</a>
